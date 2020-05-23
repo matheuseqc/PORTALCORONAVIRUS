@@ -22,8 +22,7 @@
 	A doença possui uma letalidade global de 3,4%, aumentando de acordo com a idade da pessoa acometida e com as <br>comorbidades presentes.<br>
     <br>
 	Os pacientes portadores de doenças crônicas, que representam em torno de 25 a 50% dos pacientes infectados, apresentam<br>maiores taxas de mortalidade, como a seguir:<br>
-
-	<ul>
+       <ul>
 		<li>Câncer: 5,6%</li>
 		<li>Hipertensão: 6%</li>
 		<li>Doença respiratória crônica: 6,3%</li>
