@@ -53,8 +53,8 @@
 		<tr>
 			<td> PREVENÇÃO DO CORONAVÍRUS</td>	
 			<td>
-				<a href="file:///C:/Users/mathe/Desktop/Atividades/PREVENÇÃO.html">
-				file:///C:/Users/mathe/Desktop/Atividades/PREVENÇÃO.html
+				<a href="https://matheuseqc.github.io/PORTALCORONAVIRUS3/">
+				https://matheuseqc.github.io/PORTALCORONAVIRUS3/
 			    </a>
 			</td>
 		</tr>
