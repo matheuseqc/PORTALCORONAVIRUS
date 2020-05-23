@@ -38,8 +38,8 @@
 	<table border="1">
 		<tr >
 			<td>SINTOMAS DO CORONAVÍRUS</td>
-			<td> <a href="file:///C:/Users/mathe/Desktop/Atividades/SINTOMAS.html">
-				file:///C:/Users/mathe/Desktop/Atividades/SINTOMAS.html				
+			<td> <a href="https://matheuseqc.github.io/PORTALCORONAVIRUS2/">
+				https://matheuseqc.github.io/PORTALCORONAVIRUS2/			
 			    </a> </td>
 		</tr>
 		<tr>
